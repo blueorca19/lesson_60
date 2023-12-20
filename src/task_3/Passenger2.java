@@ -46,6 +46,8 @@ public class Passenger2 extends Thread {
 
         } catch (InterruptedException e) {
             System.out.println("Ошибка!");
+
+
         }
     }
 }

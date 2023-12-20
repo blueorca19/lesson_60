@@ -25,6 +25,8 @@ public class Main2 {
             System.out.println("Все пассажиры сели в самолет. Взлетаем!");
         } catch (InterruptedException e) {
             System.out.println("Ошибка!");
+
+
         }
     }
 
